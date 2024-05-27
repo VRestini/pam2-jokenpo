@@ -25,17 +25,17 @@
                     />
             <HorizontalStackLayout>
                 <Label
-                      
+                        x:Name="PlayerCase"
                         FontSize="Title"
-                         Text="Você escolheu: "
+                        Text="Você escolheu: "
                     />
 
             </HorizontalStackLayout>
             <HorizontalStackLayout>
                 <Label
-                         
+                         x:Name="EnemyCase"
                          FontSize="Title"
-                          Text="O adversário escolheu: "
+                         Text="O adversário escolheu: "
                      />
 
             </HorizontalStackLayout>
